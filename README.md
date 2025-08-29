@@ -72,5 +72,3 @@ The dataset (loan_data.csv) contains features such as:
 This project is for educational purposes and open for further development.
 
 ---
-
-⚡ Would you like me to *format this README with some badges (e.g., Python, Scikit-learn, ML)* and a *sample usage code snippet* so it looks more professional on GitHub?
